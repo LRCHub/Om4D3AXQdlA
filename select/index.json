@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "恋人への手紙",
+  "base_artist": "TULIP",
+  "createdAt": "2025-12-27T10:19:44.583972Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋人への手紙",
+      "artist": "TULIP",
+      "has_synced": false,
+      "path": "select/pl_01_恋人への手紙_TULIP.txt"
+    }
+  ]
+}
